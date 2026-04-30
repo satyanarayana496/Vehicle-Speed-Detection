@@ -1,0 +1,22 @@
+====================================================================================================
+                               SMART TRAFFIC MONITORING REPORT                                      
+====================================================================================================
+ID	TYPE	SPEED(km/h)	OVERSPEED	HELMET	VIOLATION	IMAGE
+====================================================================================================
+2	car	63	YES	N/A	overspeed	id_2_car_63kmph_overspeed_2026-04-20_15-34-55.jpg
+33	car	67	YES	N/A	overspeed	id_33_car_67kmph_overspeed_2026-04-20_15-35-49.jpg
+38	car	67	YES	N/A	overspeed	id_38_car_67kmph_overspeed_2026-04-20_15-35-56.jpg
+46	car	67	YES	N/A	overspeed	id_46_car_67kmph_overspeed_2026-04-20_15-36-08.jpg
+47	car	63	YES	N/A	overspeed	id_47_car_63kmph_overspeed_2026-04-20_15-36-13.jpg
+50	car	72	YES	N/A	overspeed	id_50_car_72kmph_overspeed_2026-04-20_15-36-28.jpg
+51	car	67	YES	N/A	overspeed	id_51_car_67kmph_overspeed_2026-04-20_15-36-39.jpg
+52	car	63	YES	N/A	overspeed	id_52_car_63kmph_overspeed_2026-04-20_15-36-47.jpg
+53	truck	67	YES	N/A	overspeed	id_53_truck_67kmph_overspeed_2026-04-20_15-36-54.jpg
+57	car	83	YES	N/A	overspeed	id_57_car_83kmph_overspeed_2026-04-20_15-36-59.jpg
+62	car	83	YES	N/A	overspeed	id_62_car_83kmph_overspeed_2026-04-20_15-37-12.jpg
+64	car	77	YES	N/A	overspeed	id_64_car_77kmph_overspeed_2026-04-20_15-37-33.jpg
+65	car	77	YES	N/A	overspeed	id_65_car_77kmph_overspeed_2026-04-20_15-37-40.jpg
+69	car	67	YES	N/A	overspeed	id_69_car_67kmph_overspeed_2026-04-20_15-37-49.jpg
+70	truck	72	YES	N/A	overspeed	id_70_truck_72kmph_overspeed_2026-04-20_15-38-10.jpg
+71	car	72	YES	N/A	overspeed	id_71_car_72kmph_overspeed_2026-04-20_15-40-15.jpg
+78	car	63	YES	N/A	overspeed	id_78_car_63kmph_overspeed_2026-04-20_20-54-18.jpg
